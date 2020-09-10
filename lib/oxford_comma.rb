@@ -4,7 +4,7 @@ def oxford_comma(array)
   else
     large-array=array
     large-array-=1
-    large-array.join (",")
+    large-array.join(", ")
   end
 end
 
