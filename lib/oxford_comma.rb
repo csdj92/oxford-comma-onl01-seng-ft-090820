@@ -4,7 +4,7 @@ if array.length <3 || 2>
 else
   large-array=array
   large-array-=1
-  
+  large-array.join ()
   
 end
 
